@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By ABDIAS TECH AND DENKI TECH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --IVORYX-XMD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name IVORYX-XMD",
     "stop": "pm2 stop IVORYX-XMD",
     "restart": "pm2 restart IVORYX-XMD"
   },
